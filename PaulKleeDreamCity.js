@@ -2,6 +2,7 @@
 // Assignment 1: Port an Image to Code
 //
 // Primitive reconstruction of a crop of Paul Klee's Dream City (1921)
+// c.f. http://uploads7.wikiart.org/images/paul-klee/dream-city-1921%281%29.jpg
 //
 // TODO: llenar el lienzo, o ampliar todo hasta llenarlo
 //
